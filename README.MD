@@ -6,3 +6,4 @@
 - [Longest Palindromic Substring](https://github.com/thanhanphan17/java-leetcode-solution/blob/master/src/main/java/leetcode/solution/LongestPalindromicSubstring.java)
 - [Contains Duplicates](https://github.com/thanhanphan17/java-leetcode-solution/blob/master/src/main/java/leetcode/solution/ContainsDuplicate.java)
 - [Valid Anagram](https://github.com/thanhanphan17/java-leetcode-solution/blob/master/src/main/java/leetcode/solution/ValidAnagram.java)
+- [Group Anagrams](https://github.com/thanhanphan17/java-leetcode-solution/blob/master/src/main/java/leetcode/solution/GroupAnagrams.java)
