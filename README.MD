@@ -1,9 +1,9 @@
 # Solution
 
 # Array and Hashing problems
-- [Two Sum](https://github.com/thanhanphan17/java-leetcode-solution/blob/master/src/main/java/leetcode/solution/TwoSum.java)
-- [Add Two Number](https://github.com/thanhanphan17/java-leetcode-solution/blob/master/src/main/java/leetcode/solution/AddTwoNumber.java)
-- [Median Of Two Sorted Arrays](https://github.com/thanhanphan17/java-leetcode-solution/blob/master/src/main/java/leetcode/solution/MedianOfTwoSortedArrays.java)
+- [Two Sum](https://github.com/thanhanphan17/java-leetcode-solution/blob/master/src/main/java/leetcode/solution/ArrayAndHashing/TwoSum.java)
+- [Add Two Number](https://github.com/thanhanphan17/java-leetcode-solution/blob/master/src/main/java/leetcode/solution/ArrayAndHashing/AddTwoNumber.java)
+- [Median Of Two Sorted Arrays](https://github.com/thanhanphan17/java-leetcode-solution/blob/master/src/main/java/leetcode/solution/ArrayAndHashing/MedianOfTwoSortedArrays.java)
 - [Longest Palindromic Substring](https://github.com/thanhanphan17/java-leetcode-solution/blob/master/src/main/java/leetcode/solution/ArrayAndHashing/LongestPalindromicSubstring.java)
 - [Contains Duplicates](https://github.com/thanhanphan17/java-leetcode-solution/blob/master/src/main/java/leetcode/solution/ArrayAndHashing/ContainsDuplicate.java)
 - [Valid Anagram](https://github.com/thanhanphan17/java-leetcode-solution/blob/master/src/main/java/leetcode/solution/ArrayAndHashing/ValidAnagram.java)
