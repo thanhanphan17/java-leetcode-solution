@@ -1,5 +1,5 @@
 // https://leetcode.com/problems/add-two-numbers/
-package leetcode.solution;
+package leetcode.solution.ArrayAndHashing;
 
 public class AddTwoNumber {
     static class ListNode {

@@ -1,5 +1,5 @@
 // https://leetcode.com/problems/contains-duplicate/
-package leetcode.solution;
+package leetcode.solution.ArrayAndHashing;
 
 import java.util.HashMap;
 import java.util.HashSet;

@@ -1,5 +1,5 @@
 // https://leetcode.com/problems/longest-palindromic-substring/
-package leetcode.solution;
+package leetcode.solution.ArrayAndHashing;
 
 public class LongestPalindromicSubstring {
     static class Solution {

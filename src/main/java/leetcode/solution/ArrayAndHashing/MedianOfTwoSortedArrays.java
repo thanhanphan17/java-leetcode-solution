@@ -1,5 +1,5 @@
 // https://leetcode.com/problems/median-of-two-sorted-arrays/description/
-package leetcode.solution;
+package leetcode.solution.ArrayAndHashing;
 
 public class MedianOfTwoSortedArrays {
     static class Solution {

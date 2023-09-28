@@ -1,5 +1,5 @@
 // https://leetcode.com/problems/valid-anagram/description/
-package leetcode.solution;
+package leetcode.solution.ArrayAndHashing;
 
 public class ValidAnagram {
 

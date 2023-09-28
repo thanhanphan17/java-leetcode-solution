@@ -1,5 +1,5 @@
 // https://leetcode.com/problems/group-anagrams/description/
-package leetcode.solution;
+package leetcode.solution.ArrayAndHashing;
 
 import java.util.*;
 
