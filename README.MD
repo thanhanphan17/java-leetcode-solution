@@ -5,3 +5,4 @@
 - [Median Of Two Sorted Arrays](https://github.com/thanhanphan17/java-leetcode-solution/blob/master/src/main/java/leetcode/solution/MedianOfTwoSortedArrays.java)
 - [Longest Palindromic Substring](https://github.com/thanhanphan17/java-leetcode-solution/blob/master/src/main/java/leetcode/solution/LongestPalindromicSubstring.java)
 - [Contains Duplicates](https://github.com/thanhanphan17/java-leetcode-solution/blob/master/src/main/java/leetcode/solution/ContainsDuplicate.java)
+- [Valid Anagram](https://github.com/thanhanphan17/java-leetcode-solution/blob/master/src/main/java/leetcode/solution/ValidAnagram.java)
