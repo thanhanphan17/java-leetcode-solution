@@ -2,6 +2,7 @@
 package leetcode.solution;
 
 import java.util.HashMap;
+import java.util.HashSet;
 
 public class ContainsDuplicate {
     static class Solution {
@@ -12,13 +13,12 @@ public class ContainsDuplicate {
          * @return true if the array contains duplicates, false otherwise
          */
         public boolean containsDuplicate(int[] nums) {
-            HashMap<Integer, Integer> numsMap = new HashMap<>();
+            HashSet<Integer> numsSet = new HashSet<>();
 
             for (int num : nums) {
-                if (numsMap.containsKey(num)) {
+                if (!numsSet.add(num)) {
                     return true;
                 }
-                numsMap.put(num, 1);
             }
 
             return false;
