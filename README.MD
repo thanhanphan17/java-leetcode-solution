@@ -18,3 +18,6 @@
 
 # Dynamic Programing
 - [Longest Palindromic Substring](https://github.com/thanhanphan17/java-leetcode-solution/blob/master/src/main/java/leetcode/solution/DynamicPrograming/LongestPalindromicSubstring.java)
+
+# Binary Search
+- [Binary Search](https://github.com/thanhanphan17/java-leetcode-solution/blob/master/src/main/java/leetcode/solution/BinarySearch/BinarySearch.java)
